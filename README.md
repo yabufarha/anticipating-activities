@@ -25,4 +25,4 @@ If you use the code, please cite
 
     Y. Abu Farha, A. Richard, J. Gall:
     When will you do what? - Anticipating Temporal Occurrences of Activities
-    in IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2018
+    in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
