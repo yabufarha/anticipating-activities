@@ -2,9 +2,9 @@
 
 This repository provides a TensorFlow implementation of the paper [When will you do what? - Anticipating Temporal Occurrences of Activities](https://pages.iai.uni-bonn.de/gall_juergen/download/jgall_anticipation_cvpr18.pdf).
 
-### Qualitative Results
+### Qualitative Results:
 
-Click on the image
+Click on the image.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=xMNYRcVH_oI"><img src="https://img.youtube.com/vi/xMNYRcVH_oI/0.jpg" alt="IMAGE ALT TEXT"></a>
