@@ -12,7 +12,7 @@ Click on the image.
 
 ### Training:
 
-* download the data from https://uni-bonn.sciebo.de/s/0wFjAcsyhrOh8g8.
+* download the data from https://uni-bonn.sciebo.de/s/r1T0PU8W3DE6QIO.
 * extract it so that you have the `data` folder in the same directory as `main.py`.
 * To train the model on split1 of Breakfast dataset run `python main.py --model=MODEL --action=train  --vid_list_file=./data/train.split1.bundle` where `MODEL` is `cnn` or `rnn`.
 * To change the default saving directory or the model parameters, check the list of options by running `python main.py -h`.
