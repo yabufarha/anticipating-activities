@@ -34,3 +34,6 @@ If you use the code, please cite
     Y. Abu Farha, A. Richard, J. Gall:
     When will you do what? - Anticipating Temporal Occurrences of Activities
     in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
+
+To download the used features please visit:
+[An end-to-end generative framework for video segmentation and recognition](http://pages.iai.uni-bonn.de/kuehne_hilde/projects/end2end/index.html).
