@@ -12,7 +12,7 @@ Click on the image.
 
 ### Training:
 
-* download the data from https://uni-bonn.sciebo.de/s/r1T0PU8W3DE6QIO.
+* download the data from https://uni-bonn.sciebo.de/s/3Wyqu3cxYSm47Kg.
 * extract it so that you have the `data` folder in the same directory as `main.py`.
 * To train the model on split1 of Breakfast dataset run `python main.py --model=MODEL --action=train  --vid_list_file=./data/train.split1.bundle` where `MODEL` is `cnn` or `rnn`.
 * To change the default saving directory or the model parameters, check the list of options by running `python main.py -h`.
@@ -36,4 +36,4 @@ If you use the code, please cite
     in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
 
 To download the used features please visit:
-[An end-to-end generative framework for video segmentation and recognition](http://pages.iai.uni-bonn.de/kuehne_hilde/projects/end2end/index.html).
+[An end-to-end generative framework for video segmentation and recognition](https://hildekuehne.github.io/projects/end2end/index.html).
